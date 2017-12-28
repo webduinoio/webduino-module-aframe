@@ -1,14 +1,12 @@
-# webduino-module-lcd1602
+# webduino-module-aframe
 
-Webduino Module for LCD1602.
+Webduino Module for AFrame.
 
-LCD1602 is a character type liquid crystal display, which can display 32 (16*2) characters at
-the same time.
 
 ## Installation
 
 ```shell
-bower install https://github.com/webduinoio/webduino-module-lcd1602.git
+bower install https://github.com/webduinoio/webduino-module-aframe.git
 ```
 
 ## License
