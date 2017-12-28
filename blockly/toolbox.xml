@@ -1,0 +1,35 @@
+<category id="catAFRAME" tags="fly,smart">
+    <block type="variables_set">
+        <field name="VAR">aframe</field>
+        <value name="VALUE">
+            <block type="aframe_new">
+            </block>
+        </value>
+    </block>
+    <block type="variables_set">
+        <field name="VAR">entity</field>
+        <value name="VALUE">
+            <block type="entity_new">
+            </block>
+        </value>
+    </block>
+    <block type="aframe_add">
+    </block>
+    <block type="entity_pos">
+        <value name="px">
+            <block type="math_number">
+                <field name="NUM">1</field>
+            </block>
+        </value>
+        <value name="py">
+            <block type="math_number">
+                <field name="NUM">1</field>
+            </block>
+        </value>
+        <value name="pz">
+            <block type="math_number">
+                <field name="NUM">1</field>
+            </block>
+        </value>
+    </block>
+</category>

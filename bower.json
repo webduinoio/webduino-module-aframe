@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-lcd1602",
+  "description": "LCD1602 Module for Webduino",
+  "main": "LCD1602.js",
+  "authors": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "lcd1602"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

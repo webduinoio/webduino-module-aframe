@@ -1,0 +1,19 @@
+{
+  "name": "webduino-module-aframe",
+  "version": "1.0.0",
+  "description": "aframe Module for Webduino",
+  "main": "aframe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "arduino",
+    "webduino",
+    "aframe"
+  ],
+  "dependencies": {
+    "webduino-js": "0.x"
+  }
+}
