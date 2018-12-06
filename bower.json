@@ -3,7 +3,7 @@
   "description": "LCD1602 Module for Webduino",
   "main": "LCD1602.js",
   "authors": "",
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "arduino",
     "webduino",
